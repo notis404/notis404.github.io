@@ -83,11 +83,9 @@ input, select, textarea {
 	}
 
 	pdf {
-		min-width: 450px;
 		width: 100%
 	}
 	video {
-		min-width: 450px;
 		width: 100%;
 	}
 	body {
