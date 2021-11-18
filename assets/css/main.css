@@ -82,6 +82,14 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+	pdf {
+		min-width: 450px;
+		width: 100%
+	}
+	video {
+		min-width: 450px;
+		width: 100%;
+	}
 	body {
 		background: #fff;
 	}
@@ -2042,6 +2050,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		width: 100%;
 	}
 
 		.image:before {
